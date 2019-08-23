@@ -49,7 +49,7 @@ A closure allows variables to be accessed outside of their given scope
 
 5. Why do we need super() in an extended class?
 
-
+Used in tandem with 'Extended', super passes the methods from the parent class onto the child class
 
 ## Project Set up
 
